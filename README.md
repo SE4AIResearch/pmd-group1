@@ -2,6 +2,9 @@
 
 ![PMD Logo](https://raw.githubusercontent.com/pmd/pmd/pmd/7.0.x/docs/images/logo/pmd-logo-300px.png)
 
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/summary/new_code?id=BriannaPGarland_pmd-group1)
+
+
 [![Join the chat](https://img.shields.io/gitter/room/pmd/pmd)](https://app.gitter.im/#/room/#pmd_pmd:gitter.im?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://github.com/pmd/pmd/workflows/build/badge.svg?branch=master)](https://github.com/pmd/pmd/actions)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.sourceforge.pmd/pmd/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.sourceforge.pmd/pmd)
@@ -10,6 +13,9 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ea550046a02344ec850553476c4aa2ca)](https://www.codacy.com/gh/pmd/pmd/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pmd/pmd&amp;utm_campaign=Badge_Grade)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) 
 [![Documentation (latest)](https://img.shields.io/badge/docs-latest-green)](https://pmd.github.io/latest/)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=BriannaPGarland_pmd-group1&metric=bugs)](https://sonarcloud.io/summary/new_code?id=BriannaPGarland_pmd-group1)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=BriannaPGarland_pmd-group1&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=BriannaPGarland_pmd-group1)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=BriannaPGarland_pmd-group1&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=BriannaPGarland_pmd-group1)
 
 **PMD** is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks,
 unnecessary object creation, and so forth. It supports many languages. It can be extended with custom rules.
